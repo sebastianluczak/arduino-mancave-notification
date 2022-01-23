@@ -1,0 +1,8 @@
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\bin\Debug\HomeServiceApp.exe.config
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\bin\Debug\HomeServiceApp.exe
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\bin\Debug\HomeServiceApp.pdb
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\obj\Debug\HomeServiceApp.csproj.AssemblyReference.cache
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\obj\Debug\HomeServiceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\obj\Debug\HomeServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\obj\Debug\HomeServiceApp.exe
+C:\Users\Sebastian Łuczak\source\repos\HomeServiceApp\HomeServiceApp\obj\Debug\HomeServiceApp.pdb
